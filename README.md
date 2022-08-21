@@ -1,6 +1,6 @@
 # Бесконечный лента фотографий
 
-#### Посмотреть приложение можно по [ссылке](https://li-land.github.io/Infinite_unsplash_photos/)
+#### Посмотреть приложение можно по [ссылке](https://li-land.github.io/Infinite-unsplash-photos/)
 
 ## Описание
 
